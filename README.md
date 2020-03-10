@@ -9,7 +9,7 @@ Help Dave make a portfolio with your own ideas and design!
 - Make sure there is no merge conflict
 - Utilize the basis assets and information listed about Dave, but feel free to add your own to make it as creative and funky as you'd like. - Fun things! This is not supposed to be serious or pretty. Be creative add easter eggs and pink stuff! 🐷
 - Most creative and best add-ons will be awareded with a ⭐️!!_
-- Have fun! 
+- Have 1fun! Lots of fun.
 
 ## Get Started : 
 - Begin by forking this repository 
