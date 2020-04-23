@@ -27,12 +27,25 @@ Help Dave make a portfolio with your own ideas and design!
 - Fix bugs, or check for issues
 
 ## About Dave 
-- Point 1 
-- Point 2
-- Point 3
-- Point 4 
+- 31 years old
+- Full-time designer @ Infosys -- part-time juggler 
+- I worked in retail for 5 years and met bryan cranston & John Cena
+- https://daveadevine.com - my real portfolio 
+- https://www.linkedin.com/in/davidadevine/ - linkedin 
 
-# Dave's Skills 
+# Dave's Misc. Info 
+- I cook a mean tacos 
+- I love all food 
+- dogs rule, cat drool
+- I only wear white vans lace ups or converse
+- I own a switch & play alot of zelda 
+- My favorites show are Ozark, Starnger Things, Futurama 
 
+## Dave's likes 
+- I like black & white theme -- but, am sometimes open to some color 
+- I am color blind 
+- I am a UX designer that specializes in Research, Information Architecture  
+- I understand a little bit about HTML & CSS 
+- I enjoy doing visual work when I have the oppertunity
 
 
