@@ -46,7 +46,7 @@ Help Dave make a portfolio with your own ideas and design!
 - https://daveadevine.com - my real portfolio 
 - https://www.linkedin.com/in/davidadevine/ - linkedin 
 
-# Dave's Misc. Info 
+## Dave's Misc. Info 
 - I cook a mean tacos 
 - I love all food 
 - dogs rule, cat drool
