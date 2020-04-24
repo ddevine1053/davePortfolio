@@ -56,9 +56,9 @@ Dave needs help finding a virtual date during Covid! As a group use your brainst
 - Im slightly handsome?
 
 # What Dave's looking for 
-- You tell me what im looking for based on above things im into -- Use words, gifs, images, anything that can covey the type of person that you think I am potetnailly searching
+- You tell me what I'm looking for, based on above things I'm like -- Use words, gifs, images, anything that can covey the type of person that you think I am potentially searching for.
 
 
 # Contact Info.
-Dave's linkedin or resume contact section 
+Dave's linkedin or resume contact section.
 
