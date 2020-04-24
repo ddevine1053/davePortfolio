@@ -46,6 +46,6 @@ Help Dave make a portfolio with your own ideas and design!
 - I am color blind 
 - I am a UX designer that specializes in Research, Information Architecture  
 - I understand a little bit about HTML & CSS 
-- I enjoy doing visual work when I have the oppertunity
+- I enjoy doing visual work when I have the opportunity 
 
 
