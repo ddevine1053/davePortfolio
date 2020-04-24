@@ -19,7 +19,20 @@ Help Dave make a portfolio with your own ideas and design!
 - Commit Code 
 - Make a pull request
 
-## How to make a pull request 
+## Steps:
+- [How to pull request [Overview]](https://youtu.be/DIj2q02gvKs)
+    - fork repository
+    - clone repository
+    - create new branch
+    - let's contribute project
+    - commit code
+    - make a pull request
+
+- [Merge Conflict / comment](https://youtu.be/zOx5PJTY8CI)
+
+## Information on syncing forks [link](https://help.github.com/articles/syncing-a-fork/).
+
+## How to make a pull request [link](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
 
 ## Ideas on how to contribute 
 - Alter or change styling 
